@@ -1,0 +1,269 @@
+
+
+body{
+    font-family: Helvetica;
+}
+
+
+/* navigation bar */
+.jumbotron{
+    background-color: white;
+}
+
+.navbar{
+    padding: 0px;
+    margin: 50px 250px 8px 250px;
+}
+
+.navbar-brand{
+    font-size: 24pt;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+  
+.nav-item{
+    margin: 0px 0px;
+    padding: 5px 0px 0px 5px;
+}
+
+.nav-item:hover{
+    font-weight: bold;
+}
+
+.active a{
+    font-weight: bold;
+}
+
+.navbar-nav{
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+
+.navbar a{
+    color: black !important;
+    display: inline;
+    font-family: Helvetica;
+    padding: 5px;
+    text-decoration: none;
+}
+
+/* end navigation bar */
+
+
+/* jumbotron */
+
+.jumbotron{
+    background-image: url(../images/mtbackground.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+
+.jumbotron h1, .jumbotron p{
+    margin-left: 300px;
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+.jumbotron h1{
+    font-weight: bold;
+    font-size: 64pt;
+    color: #394762;
+}
+
+
+.lead{
+    font-size:14pt;
+    color: black;
+}
+
+.names{
+    margin-left: 150px !important;
+    margin-bottom: 0px !important;
+}
+
+
+.tools{
+    margin-bottom: 0px;
+    margin-bottom: 0px !important;
+}
+
+.toolsheader{
+    margin-bottom:0px;
+}
+
+.container{
+    margin: 0px;
+    padding: 0px;
+}
+
+.col-6{
+    padding-left:120px;
+    padding-right: 0px;
+}
+
+.title{
+    font-weight: bold;
+}
+
+/* end jumbotron */
+
+
+/* my process */
+
+.problemsolution{
+    margin-left: 332px;
+    margin-right: 332px;
+}
+
+.problemsolution h2{
+    font-weight: bold;
+    color: #394762;
+}
+
+.problemsolution p{
+    margin-bottom: 5px;
+}
+
+.headerq{
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+
+.solution{
+    padding-left: 40px;
+}
+
+.process{
+    margin-left: 332px;
+    margin-right: 332px;
+}
+
+.process h2{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: #394762;
+}
+
+.process img{
+    margin-top: 5px;
+    margin-left: 80px;
+}
+/* end my process */
+
+
+/* empathize */
+
+.empathize{
+    margin-left: 332px;
+    margin-right: 332px;
+    margin-top: 100px;
+    margin-bottom: 5px;
+}
+
+.empathize img{
+    padding-bottom: 30px;
+}
+
+.userresearch{
+    padding-left: 40px;
+}
+
+.empathize h4{
+    font-weight: bold;
+    color: #394762;
+}
+
+.usessayingspeech img{
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+/* end empathize */
+
+/* define */
+.define{
+    margin-left: 332px;
+    margin-right: 332px;
+    margin-top: 100px;
+    margin-bottom: 5px;
+}
+
+.define h4{
+    color: #394762;
+    font-weight: bold;
+    padding-left: 35px;
+    padding-top: 15px;
+}
+
+.define p{
+    padding-left: 35px;
+    width: 250px;
+}
+
+.col-6{
+    padding-left: 40px;
+}
+
+.goals{
+    margin-left: 332px;
+    margin-right: 332px;
+    margin-top: 15px;
+    margin-bottom: 5px;  
+}
+
+.need h4{
+    padding-left:40px;
+}
+
+.goals h4{
+    font-weight: bold;
+    color: #394762;
+}
+
+.sectionHeading{
+    margin-top: 40px;
+    margin-left: 332px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #394762;
+}
+
+.problems{
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 5px;
+    padding:0px;
+}
+
+.container-fluid{
+    padding: 0px !important;
+}
+
+.container-fluid img{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.cardContainer{
+    padding: 0px;
+    text-align: center;
+}
+
+
+
+
+
+/* end define */
