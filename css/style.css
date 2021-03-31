@@ -156,6 +156,7 @@ body{
 
 .process img{
     margin-top: 5px;
+    margin-bottom:20px;
     margin-left: 80px;
 }
 /* end my process */
@@ -186,6 +187,7 @@ body{
 .usessayingspeech img{
     padding-left: 80px;
     padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 /* end empathize */
@@ -217,12 +219,12 @@ body{
 .goals{
     margin-left: 332px;
     margin-right: 332px;
-    margin-top: 15px;
+    margin-top: 30px;
     margin-bottom: 5px;  
 }
 
-.need h4{
-    padding-left:40px;
+.need{
+    padding-left:40px !important;
 }
 
 .goals h4{
@@ -262,8 +264,45 @@ body{
     text-align: center;
 }
 
-
-
-
-
 /* end define */
+
+/* ideate */
+.ideate{
+    margin-left: 332px;
+    margin-right: 332px;
+    margin-top: 100px;
+    margin-bottom: 5px;
+}
+
+.ideate h4{
+    color: #394762;
+    font-weight: bold;
+    padding-left: 12px;
+    padding-top: 15px;
+}
+
+.ideate p{
+    padding-left: 12px;
+}
+
+.ideateimg img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.userflow h4, .userflow p{
+    padding:0px;
+}
+
+.userflow img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* end ideate */
